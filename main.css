@@ -4,6 +4,11 @@ body {
     font-size: large;
     font-weight: bolder;
 }
+
+.opinion {
+    padding: 200px 0;
+    text-align: center; 
+}
 .border-div {
     border: 3px outset black;
     text-align: center;
