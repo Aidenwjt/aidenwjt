@@ -1,0 +1,14 @@
+body {
+    background-color: ivory;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+}
+.border-div {
+    border: 3px outset black;
+    text-align: center;
+}
+.selfie-image {
+    width: 15%;
+    height: 15%;
+}

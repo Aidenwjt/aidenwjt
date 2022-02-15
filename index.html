@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Aiden Taylor">
+        <title>aidenwjt</title>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    
+    <body>
+        <div class="border-div">
+            <h2>hi, my name is aiden taylor</h2>
+            <hr>
+            <img class="selfie-image" src="images/cool-selfie.jpg" alt="Cool Selfie">
+            <p>i am a student attending the university of calgary
+            <br> majoring in CS concentrating in information security</p>
+            <p>beer me an email: <a href="mailto:aidenwjt@gmail.com">aidenwjt@gmail.com</a></p>
+            <hr>
+            <p>here is some more cool stuff about myself</p>
+            <a href="html/resume.html">&ltresume&gt</a>
+            <a href="html/education.html">&lteducation&gt</a>
+            <a href="html/projects.html">&ltprogramming projects&gt</a>
+            <a href="html/woodworking.html">&ltsome cool woodworking projects&gt</a>
+            <br>
+            <a href="html/opinons.html">&ltextensive list of my extremely controversial opinions&gt</a>
+            <br>
+            <p id="date"></p>
+            <script type= "text/javascript">
+                const date = new Date(document.lastModified);
+                document.getElementById("date").innerHTML = date;
+            </script>
+        </div>
+    </body>
+
+</html>
