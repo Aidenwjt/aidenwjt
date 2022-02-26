@@ -1,19 +1,45 @@
 body {
-    background-color: ivory;
+    background-color: #303030;
+    color: #909090;
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
     font-weight: bolder;
+    text-decoration: none;
+}
+
+hr {
+    width: 50%;
+    margin:0 auto;
 }
 
 .opinion {
     padding: 200px 0;
     text-align: center; 
 }
-.border-div {
-    border: 3px outset black;
+.container {
     text-align: center;
+
 }
-.selfie-image {
-    width: 15%;
-    height: 15%;
+.footer {
+
+}
+a.nav-link:link
+{
+   color: #909090;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: #909090; 
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color: #909090;
+   text-decoration: none;
+}
+a.nav-link:active
+{
+   color: #909090;
+   text-decoration: none;
 }
