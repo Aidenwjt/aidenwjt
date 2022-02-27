@@ -2,19 +2,16 @@ body {
     background-color: #303030;
     color: #909090;
     font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
+    font-size: large;
     font-weight: bolder;
     text-decoration: none;
 }
-
 hr {
-    width: 55%;
+    width: 50%;
     margin:0 auto;
 }
-
-.opinion {
-    padding: 200px 0;
-    text-align: center; 
+ul li {
+    padding: 3px 0px;
 }
 .container {
     text-align: center;
