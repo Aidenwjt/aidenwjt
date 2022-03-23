@@ -16,6 +16,10 @@ ul li {
 .container {
     text-align: center;
 }
+.image-size {
+    width: 20%;
+    height: 20%;
+}
 a.nav-link:link
 {
    color: #909090;
