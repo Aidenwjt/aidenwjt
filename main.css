@@ -2,23 +2,13 @@ body {
     background-color: #303030;
     color: #909090;
     font-family: 'Courier New', Courier, monospace;
-    font-size: large;
+    font-size: medium;
     font-weight: bolder;
     text-decoration: none;
 }
-hr {
-    width: 50%;
-    margin:0 auto;
-}
-ul li {
-    padding: 3px 0px;
-}
-.container {
-    text-align: center;
-}
 .image-size {
-    width: 20%;
-    height: 20%;
+    width: 210px;
+    height: 290px;
 }
 a.nav-link:link
 {
