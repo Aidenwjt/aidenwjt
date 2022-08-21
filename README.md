@@ -1,1 +1,6 @@
-![boilerplate-boilerplate-code-everywhere](https://user-images.githubusercontent.com/55963813/180635027-91b894aa-497f-4897-8d2d-94a198409bf4.jpg)
+### Hello, my name is Aiden
+I am a CS undergrad at the University of Calgary concentrating in InfoSec, also aspiring to minor in Mathematics.
+
+I really enjoy statistics and my favourite languages are Java and JavaScript! /s
+
+Check out my [site](https://aidenwjt.github.io/aidenwjt/) to find more information on me and my interests.
