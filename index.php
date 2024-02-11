@@ -74,6 +74,8 @@
 		<li><a class="nav-link" href="https://numericalexpert.com/index.php" target="_blank">&lthttps://numericalexpert.com/index.php&gt</a></li>
 	</ul>
 	<hr>
-	<p>Last updated: 2024-02-10</p>
+	<?php
+	echo "Last modified: " . date ("F d Y H:i:s.", getlastmod());
+	?>
     </body>
 </html>
